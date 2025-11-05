@@ -1,0 +1,4 @@
+The main problem with this algorithmic approach is that it cannot correctly reconstruct DNA sequences that contain repeats longer than the read length or the chosen k-mer size (K).
+These repeats create branching paths in the de Bruijn graph, leading to ambiguity — the assembler cannot determine the correct order of repeated regions.
+As a result, the algorithm may either break the genome into multiple contigs or assemble an incorrect sequence.
+This problem cannot be solved by simply increasing the number of reads; longer reads or paired-end information are needed to resolve such repeats.

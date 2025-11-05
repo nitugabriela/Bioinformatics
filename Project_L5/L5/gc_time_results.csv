@@ -1,0 +1,4 @@
+sequence,length,gc_percent,time_seconds
+seq1.fasta,2000,30.0000,0.169089
+seq2.fasta,2000,50.0000,0.169306
+seq3.fasta,2000,70.0000,0.162951
