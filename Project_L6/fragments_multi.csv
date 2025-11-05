@@ -1,0 +1,11 @@
+sequence,fragment_name,start,length_bp
+seq5.fasta,frag_1,308,1426
+seq5.fasta,frag_2,666,1717
+seq5.fasta,frag_3,296,297
+seq5.fasta,frag_4,48,2294
+seq5.fasta,frag_5,118,1597
+seq5.fasta,frag_6,219,2178
+seq5.fasta,frag_7,352,253
+seq5.fasta,frag_8,428,1876
+seq5.fasta,frag_9,985,386
+seq5.fasta,frag_10,1738,471
